@@ -75,7 +75,7 @@ six==1.13.0
 sqlparse==0.3.0
 system-service==0.3
 systemd-python==234
-thefuck==3.28
+thefuck==3.31
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
