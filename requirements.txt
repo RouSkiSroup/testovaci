@@ -46,7 +46,7 @@ olefile==0.45.1
 pexpect==4.2.1
 Pillow==5.1.0
 pipreqs==0.4.10
-protobuf==3.11.0rc1
+protobuf==3.18.3
 psutil==5.6.1
 psycopg2-binary==2.8.4
 pyasn1==0.4.8
